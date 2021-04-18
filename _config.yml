@@ -46,31 +46,31 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 content:
-  title: Projects # Title for the section
-    layout: list # Type of content section (list/text)
-    - content:
-      - layout: top-middle
-        title: Assistive technology for People with Disabilities
-        sub_title: Co-Creator at WPI
-        caption: August 2020 until April 2021
-        description: | # this will include new lines to allow paragraphs
-          Collaborated with 5 teammates to create a device to help quadriplegic people. The device will help improve their control over their phones. Familiarized with the prototype design by Puffin Technologies to further develop it and improve it. Researched different technologies similar, what other countries have used, the medical information behind people becoming quadriplegic. Built a prototype and created code to go alongside it. Designed Software Architecture for our different devices. We will be used the ATmega328PB and X-NUCLEO-BNRG2A1
+  - title: Projects # Title for the section
+      layout: list # Type of content section (list/text)
+      - content:
+        - layout: top-middle
+          title: Assistive technology for People with Disabilities
+          sub_title: Co-Creator at WPI
+          caption: August 2020 until April 2021
+          description: | # this will include new lines to allow paragraphs
+            Collaborated with 5 teammates to create a device to help quadriplegic people. The device will help improve their control over their phones. Familiarized with the prototype design by Puffin Technologies to further develop it and improve it. Researched different technologies similar, what other countries have used, the medical information behind people becoming quadriplegic. Built a prototype and created code to go alongside it. Designed Software Architecture for our different devices. We will be used the ATmega328PB and X-NUCLEO-BNRG2A1
 
-    - content:
-      - layout: top-middle
-        title: User Interphase for AppBuilder
-        sub_title: Intern at Silicon Labs
-        caption: May – August 2020
-        description: | # this will include new lines to allow paragraphs
-          Designed the new interface for an older version of a WATT Team app. Collaborated with 10 team members. Analyzed what the rest of the team was developing and implemented it unto what I was creating. Prepared code and documentation for the team to continue the work I had started. Organized transition documents for future interns to understand what the team has been working on. My design will be used in the future releases of the App.
+      - content:
+        - layout: top-middle
+          title: User Interphase for AppBuilder
+          sub_title: Intern at Silicon Labs
+          caption: May – August 2020
+          description: | # this will include new lines to allow paragraphs
+            Designed the new interface for an older version of a WATT Team app. Collaborated with 10 team members. Analyzed what the rest of the team was developing and implemented it unto what I was creating. Prepared code and documentation for the team to continue the work I had started. Organized transition documents for future interns to understand what the team has been working on. My design will be used in the future releases of the App.
           
-    - content:
-      - layout: top-middle
-        title: Labs for Embedded Computing in Engineering Design
-        sub_title: Co-Creator at WPI
-        caption: January – March 2019
-        description: | # this will include new lines to allow paragraphs
-          Designed many games that were instructed by the class, with lab partner. Coded in an MSP430F5529 a similar game to “Space Invader” where the player has to press the numbers from 1-6 in the keypad to “kill” the aliens. The aliens come in random order and the game has different levels of difficulty. Created an adaptation of “Guitar Hero” in the MSP430, having a total of 8 different songs, with 3 levels of difficulty each. Buttons shall be pressed in the time where the corresponding LED is lit and the player gets the note right, else they get it wrong. After a certain amount a GAME OVER screen shows and proper humiliation is given. Received best lab project for these two games, of around 100 students.
+      - content:
+        - layout: top-middle
+          title: Labs for Embedded Computing in Engineering Design
+          sub_title: Co-Creator at WPI
+          caption: January – March 2019
+          description: | # this will include new lines to allow paragraphs
+            Designed many games that were instructed by the class, with lab partner. Coded in an MSP430F5529 a similar game to “Space Invader” where the player has to press the numbers from 1-6 in the keypad to “kill” the aliens. The aliens come in random order and the game has different levels of difficulty. Created an adaptation of “Guitar Hero” in the MSP430, having a total of 8 different songs, with 3 levels of difficulty each. Buttons shall be pressed in the time where the corresponding LED is lit and the player gets the note right, else they get it wrong. After a certain amount a GAME OVER screen shows and proper humiliation is given. Received best lab project for these two games, of around 100 students.
           
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
